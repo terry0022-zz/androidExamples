@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Android Examples
 
 Contenido java
@@ -97,11 +96,3 @@ spn3 = (Spinner)findViewById(R.id.spinner3);
 spn3.setAdapter(adapter2);
 
 ```
-
-
-
-Todo el programa esta [aquí](http://148.247.201.217/terry0022/androidExamples/tree/master) así que cualquier cosa me avisan.
-
-=======
-# androidExamples
->>>>>>> cd31e63386cbcf65d43fea3a61e364b5486ec800
